@@ -37,6 +37,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   bluetooth_print: ^4.1.0
   intl: ^0.17.0
+  blue_thermal_printer: any
 
 dev_dependencies:
   flutter_test:
